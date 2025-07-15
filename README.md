@@ -27,7 +27,7 @@ It helps visualize and analyze key business metrics such as:
 4. Explore the dashboards and visualizations.
 
 ## 📸 Sample Screenshots
-![Dashboard Screenshot][https://github.com/mukeshmadipelly/Pizza-Sales-Report/blob/main/Screenshot%202025-07-15%20142328.png]
+![Dashboard Screenshot](https://github.com/mukeshmadipelly/Pizza-Sales-Report/blob/main/Screenshot%202025-07-15%20142328.png)
 ## 💼 Use Cases
 
 - Business Reporting  

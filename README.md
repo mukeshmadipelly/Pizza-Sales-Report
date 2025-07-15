@@ -27,8 +27,7 @@ It helps visualize and analyze key business metrics such as:
 4. Explore the dashboards and visualizations.
 
 ## 📸 Sample Screenshots
-
-
+![Dashboard Screenshot][
 ## 💼 Use Cases
 
 - Business Reporting  
